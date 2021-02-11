@@ -5,3 +5,5 @@
 
 # When we are write HTMl, CSS, JS Browser work like : Create DOM(Document Object Model) Tree -> parse style -> from this two thing create render tree -> set layout -> paint
 # Details: http://onwebdev.blogspot.com/2010/06/firefox-unveiled-gecko-basic-data-flow.html
+
+# 27-3 Website alert, confirmation, prompt to collect data

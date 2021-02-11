@@ -7,3 +7,6 @@
 # Details: http://onwebdev.blogspot.com/2010/06/firefox-unveiled-gecko-basic-data-flow.html
 
 # 27-3 Website alert, confirmation, prompt to collect data
+# repository name: istiaqe-bank and commit: show alert message
+# prompt: prompt("Tell me your name") then show This page says then below Tell me your name then Tex box then ok and cancel button 
+# Confirm: confirm("Are you coming in the picnic"); then show This page says below Are you coming in the picnic then ok and cancel button 

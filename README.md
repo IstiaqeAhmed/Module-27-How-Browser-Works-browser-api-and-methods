@@ -24,6 +24,7 @@
 # if we want to see previous website type in console : history.back()
 # if we want to see next website type in console : history.forward()
 #  history.go(3) : website load after 3 website url
+# What will you call to see the 3 step back webpage the user was using? ANSWER: go(-3)
 # Details: https://developer.mozilla.org/en-US/docs/Web/API/History_API
 
 # 27-7 cookies, dev tool application tab, cookies at server

@@ -28,5 +28,15 @@
 
 # 27-7 cookies, dev tool application tab, cookies at server
 # cookies indicates which website I visit. 
+# cookies can store some data in my browser 
 # cookies are send to the server  
 # Details: https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie
+
+# 27-8 local storage, session storage, edit storage information
+# Details: https://developer.mozilla.org/en-US/docs/Web/API/Storage
+# storage name which can store some data in my browser :
+# 1. cookies 2. session 3. local
+# local storage: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+# for a long time data store
+# session storage : for a short time data store
+# Details:https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage

@@ -37,6 +37,12 @@
 # storage name which can store some data in my browser :
 # 1. cookies 2. session 3. local
 # local storage: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
-# for a long time data store
-# session storage : for a short time data store
+# for a long time data store. persistent
+# session storage : for a short time data store. when tab open session storage show. tab closed session closed
 # Details:https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
+
+# 27-9 Browser clear cache, chrome extension, web store, restart
+
+# 27-10 Browser Overview, Module Summary
+# 1. how to work browser? internal mechanism, v8 engine, rendering engine, layer, 
+# alert, confirm, prompt, url, location.href, history api, url part, cookies, storage, event bubble  
